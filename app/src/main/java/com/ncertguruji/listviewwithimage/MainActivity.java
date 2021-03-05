@@ -24,8 +24,8 @@ public class MainActivity extends AppCompatActivity {
 
 
     private final Integer [] imageId = {
-            R.drawable.sch1,
-            R.drawable.sch1,
+            R.drawable.me,
+            R.drawable.me,
             R.drawable.sch1,
             R.drawable.sch1,
 
